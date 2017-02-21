@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.movies.app.SavedDetailActivity" >
+    <item android:id="@+id/delete_watchlist"
+        android:icon="@mipmap/delete_from_watchlist"
+        android:title="Delete"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.movies.app.DetailActivity" >
+    <item android:id="@+id/action_watchlist"
+        android:title="Watchlist"
+        android:orderInCategory="101"
+        app:showAsAction="always"
+        android:icon="@mipmap/watchlist2"/>
+    <item android:id="@+id/add_watchlist"
+        android:icon="@mipmap/add_to_watchlist"
+        android:title="Add"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+</menu>

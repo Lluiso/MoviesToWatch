@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lluis/Documents/Movies/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/lluis/Documents/Movies/app/build/intermediates/pre-dexed/debug/classes-1038086d3b4fdaa772f3818e0a2a8e4a1fcb9c60.jar" />
+    </item>
+    <item
+        jar="/Users/lluis/Downloads/Sunshine-Version-2-3.13_add_share_action_provider/app/build/intermediates/exploded-aar/com.github.bluejamesbond/textjustify-android/2.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e3ac75a5e3f8ef059c7766dc9640e0487e32749">
+        <dex dex="/Users/lluis/Downloads/Sunshine-Version-2-3.13_add_share_action_provider/app/build/intermediates/pre-dexed/debug/classes-0b5167ac989df9103316e2b8a37ff8e5b340e67c.jar" />
+    </item>
+    <item
+        jar="/Users/lluis/Documents/Movies/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/lluis/Documents/Movies/app/build/intermediates/pre-dexed/debug/classes-4b31ba0eafbfcd6b3e3cbad4b9306796e938cf4f.jar" />
+    </item>
+    <item
+        jar="/Users/lluis/Downloads/Sunshine-Version-2-3.13_add_share_action_provider/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/lluis/Downloads/Sunshine-Version-2-3.13_add_share_action_provider/app/build/intermediates/pre-dexed/debug/classes-e1cabdc20528ce3847e87ff39e1dfbd78f8c41d7.jar" />
+    </item>
+    <item
+        jar="/Users/lluis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/lluis/Downloads/Sunshine-Version-2-3.13_add_share_action_provider/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-da5b9c16eb6e0332e3d207c804eeca189b51f8e9.jar" />
+    </item>
+    <item
+        jar="/Users/lluis/Documents/Movies/app/build/intermediates/exploded-aar/com.github.bluejamesbond/textjustify-android/2.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e3ac75a5e3f8ef059c7766dc9640e0487e32749">
+        <dex dex="/Users/lluis/Documents/Movies/app/build/intermediates/pre-dexed/debug/classes-c1e631852fb41802ad55802e005f70cc48c7a382.jar" />
+    </item>
+    <item
+        jar="/Users/lluis/Documents/Movies/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/lluis/Documents/Movies/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-d8933b698039add939fb39161e70e131e1d87c3f.jar" />
+    </item>
+    <item
+        jar="/Users/lluis/Downloads/Sunshine-Version-2-3.13_add_share_action_provider/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/lluis/Downloads/Sunshine-Version-2-3.13_add_share_action_provider/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-de6e83d17542513b4b4d20e7daac434bd642d88c.jar" />
+    </item>
+    <item
+        jar="/Users/lluis/Downloads/Sunshine-Version-2-3.13_add_share_action_provider/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/lluis/Downloads/Sunshine-Version-2-3.13_add_share_action_provider/app/build/intermediates/pre-dexed/debug/classes-8184002a5b36e1df0167ed308fa9432c8a36c0f1.jar" />
+    </item>
+
+</items>
